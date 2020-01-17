@@ -22,4 +22,8 @@ It is possible to use Hydra in the [browser](https://www.google.com/intl/en_uk/c
 * Click on the extensions folder so it is highlighted and hit 'Select'.
 * Restart the Chrome browser.
 
+## Other Tutorials
+* [Zach Krall](https://github.com/zachkrall/hydra-workshop) (English)
+* [Diego Dorado](https://github.com/diegodorado/taller-hydra) (Spanish)
+
 ## References
