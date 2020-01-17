@@ -25,5 +25,7 @@ It is possible to use Hydra in the [browser](https://www.google.com/intl/en_uk/c
 ## Other Tutorials
 * [Zach Krall](https://github.com/zachkrall/hydra-workshop) (English)
 * [Diego Dorado](https://github.com/diegodorado/taller-hydra) (Spanish)
+* [Not really a tutorial](https://www.youtube.com/watch?v=da4yAd9AW9E&t=377s) but Olivia and Joanne coding from scratch at a House Party in Morelia, Mexico. The sound really was that bad.
+
 
 ## References
