@@ -7,6 +7,7 @@ Hello and welcome to 'Developing Feminist Live Coding Languages' led by [Joanne 
 * Annotated slides are available here
 * Link to Hydra [online](https://hydra-editor.glitch.me/) and [tutorials](https://github.com/ojack/hydra). 
 * [Notes from the workshop](https://pad.riseup.net/p/9SWcehp9OAPGT31VkVeD-keep).
+* [Hydra Patterns](https://twitter.com/hydra_patterns) Twitter
 
 ## Using Hydra
 
